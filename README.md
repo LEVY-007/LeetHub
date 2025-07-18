@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/LEVY-007/LeetHub/tree/master/0412-fizz-buzz) |
+| [1205-defanging-an-ip-address](https://github.com/LEVY-007/LeetHub/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
