@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/LEVY-007/LeetHub/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/LEVY-007/LeetHub/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/LEVY-007/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/LEVY-007/LeetHub/tree/master/1797-goal-parser-interpretation) |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/LEVY-007/LeetHub/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/LEVY-007/LeetHub/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
