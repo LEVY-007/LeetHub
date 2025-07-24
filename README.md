@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/LEVY-007/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Matrix
@@ -37,4 +38,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/LEVY-007/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/LEVY-007/LeetHub/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
