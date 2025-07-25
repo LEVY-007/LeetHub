@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
+| [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/LEVY-007/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Matrix
@@ -42,4 +43,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
