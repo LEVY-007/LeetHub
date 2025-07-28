@@ -5,4 +5,7 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
-        return sum(nums[::2])  # Take every second element starting from index 0
+        total = 0
+        for i in range(0, len(nums), 2):
+            total += nums[i]
+        return total
