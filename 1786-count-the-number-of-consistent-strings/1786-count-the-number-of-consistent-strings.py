@@ -6,9 +6,7 @@ class Solution(object):
         :rtype: i
         
         """
+        
         allowed_set = set(allowed)
-        count=0
-        for w in words:
-            if all(i in allowed_set for i in w):
-                count += 1
-        return count
+        return sum(1 for word in words if set(word).issubset(allowed_set))
+
