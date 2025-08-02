@@ -30,6 +30,7 @@
 | [0344-reverse-string](https://github.com/LEVY-007/LeetHub/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/LEVY-007/LeetHub/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/LEVY-007/LeetHub/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/LEVY-007/LeetHub/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/LEVY-007/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/LEVY-007/LeetHub/tree/master/1797-goal-parser-interpretation) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/LEVY-007/LeetHub/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
