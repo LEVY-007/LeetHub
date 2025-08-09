@@ -22,6 +22,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/LEVY-007/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/LEVY-007/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1205-defanging-an-ip-address](https://github.com/LEVY-007/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/LEVY-007/LeetHub/tree/master/1797-goal-parser-interpretation) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/LEVY-007/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
