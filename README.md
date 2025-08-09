@@ -38,6 +38,7 @@
 | [1205-defanging-an-ip-address](https://github.com/LEVY-007/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/LEVY-007/LeetHub/tree/master/1797-goal-parser-interpretation) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/LEVY-007/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LEVY-007/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/LEVY-007/LeetHub/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/LEVY-007/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
