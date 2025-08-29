@@ -20,6 +20,7 @@
 | [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LEVY-007/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/LEVY-007/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/LEVY-007/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LEVY-007/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
