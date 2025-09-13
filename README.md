@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/LEVY-007/LeetHub/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/LEVY-007/LeetHub/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LEVY-007/LeetHub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LEVY-007/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/LEVY-007/LeetHub/tree/master/0066-plus-one) |
 | [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LEVY-007/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
