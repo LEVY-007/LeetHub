@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEVY-007/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/LEVY-007/LeetHub/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/LEVY-007/LeetHub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LEVY-007/LeetHub/tree/master/0242-valid-anagram) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEVY-007/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/LEVY-007/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/LEVY-007/LeetHub/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -78,4 +80,8 @@
 | ------- |
 | [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEVY-007/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
