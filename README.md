@@ -12,6 +12,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/LEVY-007/LeetHub/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LEVY-007/LeetHub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LEVY-007/LeetHub/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/LEVY-007/LeetHub/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/LEVY-007/LeetHub/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LEVY-007/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
