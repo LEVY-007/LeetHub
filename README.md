@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/LEVY-007/LeetHub/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/LEVY-007/LeetHub/tree/master/0561-array-partition) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LEVY-007/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/LEVY-007/LeetHub/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LEVY-007/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/LEVY-007/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LEVY-007/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEVY-007/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/LEVY-007/LeetHub/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
